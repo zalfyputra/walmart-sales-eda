@@ -6,9 +6,7 @@ An EDA report that aims to uncover patterns and insights within a Walmart sales 
 
 For the dataset, click [here](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
 
-## Key Findings
-
-**Total yearly and monthly sales**
+### Total yearly and monthly sales
 
 <img src='yearly_monthly_sales.png'>
 
@@ -16,16 +14,16 @@ Most yearly sales happened in 2011 with 36% of the total yearly sales over three
 
 The highest monthly sales occurred in July, followed by April and June. The lowest monthly sales were in November and January. This happens due to the challenges associated with the "4th quarter sales," marked by decreased consumer spending post-holiday season, reduced foot traffic, and a shift towards budget-conscious shopping habits after holiday expenses.
 
-**Total sales over three years**
+### Total sales over three years
 
 <img src='total_sales_all.png'>
 
 In 2010 and 2011, the sales trend was relatively similar, with a slight increase in sales during November 2010, while in 2011 happens later in October. In 2012, the sales trend was more volatile, with a significant increase in sales during June and August.
 
-## Hypothesis Testing
+### Hypothesis Testing
 
-`Null Hypothesis`: Holiday weeks don't experience significantly higher sales compared to non-holiday weeks. \
-`Alternative Hypothesis`: Holiday weeks experience significantly higher sales compared to non-holiday weeks.
+$ 𝐻_{0}: $ Holiday weeks don't experience significantly higher sales compared to non-holiday weeks. \
+$ 𝐻_{1}: $ Holiday weeks experience significantly higher sales compared to non-holiday weeks.
 
 <img src='holiday_vs_non.png'>
 
