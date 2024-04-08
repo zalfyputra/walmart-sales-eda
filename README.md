@@ -23,7 +23,7 @@ In 2010 and 2011, the sales trend was relatively similar, with a slight increase
 ### Hypothesis Testing
 
 `H0` Holiday weeks don't experience significantly higher sales compared to non-holiday weeks. \
-`H1` $ Holiday weeks experience significantly higher sales compared to non-holiday weeks.
+`H1` Holiday weeks experience significantly higher sales compared to non-holiday weeks.
 
 <img src='holiday_vs_non.png'>
 
