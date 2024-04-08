@@ -27,7 +27,7 @@ In 2010 and 2011, the sales trend was relatively similar, with a slight increase
 
 <img src='holiday_vs_non.png'>
 
-After calculating the mean sales for holiday and non-holiday weeks, we found that holiday weeks have significantly higher sales compared to non-holiday weeks. The $\rho$-value is less than $\alpha$ 0.05, which means we can reject the null hypothesis.
+After calculating the mean sales for holiday and non-holiday weeks, we found that holiday weeks have significantly higher sales compared to non-holiday weeks. The $\rho$-value is less than 0.05, which means we can reject the null hypothesis.
 
 ## Conclusion
 
